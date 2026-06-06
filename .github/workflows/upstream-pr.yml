@@ -27,7 +27,7 @@ jobs:
 
       - name: Add upstream
         run: |
-          git remote add upstream https://github.com/Stoeaves/cmb.git
+          git remote add upstream https://github.com/Stoeaves/Cf-Github-ImgBed.git
 
       - name: Fetch upstream
         run: |
